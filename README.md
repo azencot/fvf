@@ -1,4 +1,4 @@
-# Example Code for "An Operator Approach to Tangent Vector Field Processing"
+# Functional Vector Fields
 
 The attached code provides an implementation of function transport along a given vector field using the method described in
 https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12174
